@@ -4,6 +4,6 @@ I forecast cash rate monthly using publicly available data, open-source software
 
 ## website
 
-[forecasting-cash-rate.github.io/](https://forecasting-cash-rate.github.io/) is the website where I report my forecasts
+[forecasting-cash-rate.github.io](https://forecasting-cash-rate.github.io) is the website where I report my forecasts
 
 Provided by [Tomasz Woźniak](https://github.com/donotdespair)
